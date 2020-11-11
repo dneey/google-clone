@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+  @apply inline-block px-4 py-2 rounded-lg shadow-lg bg-indigo-500  text-sm text-white uppercase tracking-wider font-semibold;
+}
+@tailwind utilities;
